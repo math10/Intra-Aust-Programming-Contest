@@ -119,7 +119,7 @@ vector<string >infixToPostfix(){
         }else{
             while(!s.empty()){
                 string tmp = s.top();
-                if(tmp[0] != '(' && m[tmp[0]] > m[st[0]]){
+                if(tmp[0] != '(' && m[tmp[0]] >= m[st[0]]){
                     ans.push_back(tmp);
                     s.pop();
                 }else break;
