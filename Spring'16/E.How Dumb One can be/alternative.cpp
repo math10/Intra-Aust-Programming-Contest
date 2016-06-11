@@ -210,6 +210,9 @@ int main() {
     freopen ("in.txt", "r", stdin);
     freopen ("output.txt", "w", stdout);
 #endif
+// if you want + - same priority then m['+'] = 0
+// if you want * / same priority then m['/'] = 2
+// in that case for same priority ans will be left associative
     m['-'] = 0;
     m['+'] = 1;
     m['*'] = 2;
