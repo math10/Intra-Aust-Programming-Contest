@@ -1,5 +1,5 @@
 # Intra-Aust-Programming-Contest
-AUST
+
 Online mirror links
 ===================
 
