@@ -1,0 +1,13 @@
+Two friends were talking in a field just before noon. They were talking about history. The topic was about an epic battle between Samrat Akbar & Babor. One said, "Once Akbar sent one-third of his army in the battle field, but he didn't come to fight. Babor sent two-third of his army in the battle field and he came in the battle field also. The battle took place just before noon. Then just after noon, Samrat Akbar came to the battle field. The past seems really crazy right?". Other replied, "Yes, indeed it is. And you know, this was the field where those two Samrats had an epic battle. Akbar had 303 army members in total and Babor had 300." The first one said, "Let's count how many people were present just before noon at the battle field".
+
+Input Format
+
+There is no input in this problem.
+
+Constraints
+
+No input.
+
+Output Format
+
+Output a single integer, the total number of people present in the battle field.

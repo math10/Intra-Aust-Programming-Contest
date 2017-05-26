@@ -1,0 +1,31 @@
+N cars are lying in some points in a road.If a car is currently in P point after 1 second the car moves to P+1 point.
+Now for each query you have to count how many cars are current in the given two points after the given time. 
+Input:
+
+Input start with the number of Testcases.Each testcase starts with N and Q where N denotes number of cars at present in the road and Q denotes number of query.
+next line contains the n integers which denotes the initial positions of N cars.
+next Q lines contain 3 integers X,Y,T and you have to count the number of cars are present in between x and y point (inclusive) after T second(s).
+Output:
+for each testcase you have to print the case number. For each query you have to print the number of cars are present in between the given two points after the given time.
+See sample testcases for further details.
+Constraints:
+Testcase <= 10
+N <= 50000
+Q <= 1000
+1 <= initial position <= 10^9
+1 <= X,Y <= 10^9 
+1 <= T <= 10^9
+
+Sample Input:
+1
+5 3
+100 800 400 500 10000
+1 500 3
+200 400 5
+100 1000 1
+
+Sample Output:
+Case 1:
+2
+0
+4

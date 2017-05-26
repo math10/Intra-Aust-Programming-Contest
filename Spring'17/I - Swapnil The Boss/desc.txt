@@ -1,0 +1,27 @@
+Swapnil is very helpful towards his friends. He tries to help them in coding in any way possible. One of his friends is now stuck with a simple coding problem and asks Swapnil for his help. But Swapnil is very busy maintaining his love life, so he asked for your help about solving the problem. The problem is really simple. Here it goes,
+
+You will be given a valid C++ code with lots of empty lines, white spaces, comments. Your task is to rewrite that code into a short, good looking code. The rules are simple. You only need to remove unnecessary white spaces, comments, empty lines and then finally write the expected code. Can you help him with that?
+
+Rules :
+
+1.Remove all unnecessary spaces, empty lines, tab characters.
+
+2.Remove all comments.
+
+3.Inside the double quotation ("") mark in printf & scanf, everything will remain as same as the input file.
+
+Note : Whitespaces can either mean a single space (' ') or a tab ('\t').
+
+Input Format
+
+First line of input will contain a single integer T, the number of testcases. Then each of T testcases will follow with a C++ code. The line containing "XXX" without the quote will determine the end of the code and this line should not be processed.
+
+Constraints
+
+(T<=10)
+
+There shall be no code exceeding 200 lines.
+
+Output Format
+
+First output the testcases as "Case #x:", here x means the number of testcases. Then output the desired C++ code. See the sample for better understanding.
