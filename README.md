@@ -14,3 +14,5 @@ Spring'16 :: http://devskill.com/ContestArchive/ContestDetail/f3669744-12a1-c6bb
 Fall'16 :: https://toph.co/c/aust-intra-fall-2016
 
 Spring'17 :: https://devskill.com/ContestArchive/ContestDetail/fb02f8fd-f2dd-cb41-8c93-08d4a1dce61c
+
+Fall'17 :: https://toph.co/c/intra-aust-fall-2017-r
